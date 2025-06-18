@@ -22,13 +22,10 @@ I **am** the Empress of Grippy Socks Land.
 - Eating gun grabbers (metaphorically, or not)  
 - Stealing cis women's estrogen (don’t @ me)  
 - Making love with ATF items (wink)  
-- Coding with my elbow (very slowly, but deadly)
+- Coding with my elbow (very slowly)
 
 ## 🔥 Current Projects  
-- FemOS: because why not make an OS that slaps?  
-- Tons of AR-15s and other firearms (FOSSCAD style)  
-- A program that turns you into a girl (no magic, just code)  
-
+ - nothing this is my new github can't y'all see 
 ---
 
 Ahhhhhhhhhhhhhhhhhhhhhhhh, help me, my cat is biting me! send help ...---...
